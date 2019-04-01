@@ -1,0 +1,25 @@
+overthewire.org/wargames/bandit/
+USER: bandit<LEVEL_NO>@bandit.labs.overthewire.org
+PASSWORD_LIST:
+<LEVEL_NO>: <PASSWORD>
+L00: bandit0
+L01: boJ9jbbUNNfktd78OOpsqOltutMc3MY1
+L02: CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9
+L03: UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK
+L04: pIwrPrtPN36QITSp3EQaw936yaFoFgAB
+L05: koReBOKuIDDepwhWk7jZC0RTdopnAYKh
+L06: DXjZPULLxYr17uwoI01bNLQbtFemEgo7
+L07: HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs
+L08: cvX2JJa4CFALtqS87jk27qwqGhBM9plV
+L09: UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR
+L10: truKLdjsbJ5g7yyJ2X2R0o3a5HQJFuLk
+L11: IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR
+L12: 5Te8Y4drgCRfCx8ugdwuEX8KFC6k2EUu
+L13: 8ZjyCRiBWFYkneahHwxCv3wb2a1ORpYL
+L14: 4wcYUJFw0k0XLShlDzztnTBHiqxU3b3e
+L15: BfMYroe26WYalil77FoDi9qh59eK5xNr
+L16: cluFn7wTiGryunymYOu4RcffSxQluehd
+L17: <SSH-KEY: $current/sshkey17.private>
+L18: kfBf3eYk5BPBRzwjqutbbfE887SVc5Yd
+L19: IueksS7Ubh8G3DCwVzrTd8rAVOwq3M5x
+L20: GbKksEFF4yrVs6il55v6gwY5aVje5f0j
